@@ -39,7 +39,7 @@ const Style = () => {
   /*  菜单下划线动画 */
   #theme-simple .menu-link {
       text-decoration: none;
-      background-image: linear-gradient(#2698eb, #2698eb);
+      background-image: linear-gradient(#dd3333, #dd3333);
       background-repeat: no-repeat;
       background-position: bottom center;
       background-size: 0 2px;
@@ -48,7 +48,7 @@ const Style = () => {
    
   #theme-simple .menu-link:hover {
       background-size: 100% 2px;
-      color: #2698eb;
+      color: #dd3333;
       cursor: pointer;
   }
   
